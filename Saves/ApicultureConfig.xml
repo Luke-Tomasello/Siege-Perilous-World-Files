@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<ApicultureConfig version="0">
+  <Competition>True</Competition>
+  <MaxPopulation>10</MaxPopulation>
+  <MaxHoney>255</MaxHoney>
+  <MaxWax>255</MaxWax>
+  <CompetitionRange>4</CompetitionRange>
+  <SwarmMinSkill>-90</SwarmMinSkill>
+  <SwarmMaxSkill>110</SwarmMaxSkill>
+  <PlantDoubleGrowRange>4</PlantDoubleGrowRange>
+  <PlantDoubleGrowChance>15</PlantDoubleGrowChance>
+  <GrowthDelay>1.00:00:00</GrowthDelay>
+</ApicultureConfig>

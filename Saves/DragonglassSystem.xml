@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<DragonglassSystem version="7">
+  <ArmorImbueChance>0.75</ArmorImbueChance>
+  <ArmorImbueCap>70</ArmorImbueCap>
+  <ArmorImbueScaling>True</ArmorImbueScaling>
+  <WeaponImbueCap>70</WeaponImbueCap>
+  <StatueImbueCap>140</StatueImbueCap>
+  <WeaponImbueScaling>True</WeaponImbueScaling>
+  <StatueImbueScaling>True</StatueImbueScaling>
+  <WeaponImbueChance>0.75</WeaponImbueChance>
+  <StatueImbueChance>0.75</StatueImbueChance>
+  <ProtectionLevel>Regular</ProtectionLevel>
+  <DamageLevel>Force</DamageLevel>
+  <ArmorBonus>0</ArmorBonus>
+  <DamageBonus>0</DamageBonus>
+  <DurabilityScalar>50</DurabilityScalar>
+</DragonglassSystem>

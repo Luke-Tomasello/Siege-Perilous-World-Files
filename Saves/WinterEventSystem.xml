@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<WinterEventSystem version="3">
+  <WildHuntArmyScalar>100</WildHuntArmyScalar>
+  <WildHuntHitsScalar>250</WildHuntHitsScalar>
+  <TownBounds>(4010, 522)+(79, 73)</TownBounds>
+  <AlcoholHeat>5</AlcoholHeat>
+  <WeatherInterval>15</WeatherInterval>
+  <MaxWarmth>100</MaxWarmth>
+  <HeatRange>20</HeatRange>
+  <ColdTick>5</ColdTick>
+  <HeatTick>25</HeatTick>
+  <Enabled>True</Enabled>
+  <Facet>Trammel</Facet>
+</WinterEventSystem>

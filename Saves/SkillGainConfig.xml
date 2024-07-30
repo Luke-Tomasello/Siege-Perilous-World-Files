@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<SkillGainConfig version="0">
+  <Bonus>0</Bonus>
+  <CapWeight>0.333333333333333</CapWeight>
+  <SuccessWeight>0.666666666666667</SuccessWeight>
+  <GlobalFactor>1</GlobalFactor>
+  <GainWaits>False</GainWaits>
+  <GSGG>4</GSGG>
+  <PointSystem>True</PointSystem>
+  <AntiMacroCode>False</AntiMacroCode>
+  <UseAntiMacro>_None</UseAntiMacro>
+  <AntiMacroExpire>00:05:00</AntiMacroExpire>
+  <AntiMacroAllowance>3</AntiMacroAllowance>
+  <AntiMacroLocationSize>5</AntiMacroLocationSize>
+  <SkillGainModifier version="0">
+    <Flags>_Mask</Flags>
+    <MinFixed>900</MinFixed>
+    <MaxFixed>949</MaxFixed>
+    <Scalar>0.55</Scalar>
+  </SkillGainModifier>
+  <SkillGainModifier version="0">
+    <Flags>_Mask</Flags>
+    <MinFixed>950</MinFixed>
+    <MaxFixed>989</MaxFixed>
+    <Scalar>0.45</Scalar>
+  </SkillGainModifier>
+  <SkillGainModifier version="0">
+    <Flags>_Mask</Flags>
+    <MinFixed>990</MinFixed>
+    <MaxFixed>999</MaxFixed>
+    <Scalar>0.12</Scalar>
+  </SkillGainModifier>
+  <SkillGainModifier version="0">
+    <Flags>Cartography</Flags>
+    <MinFixed>900</MinFixed>
+    <MaxFixed>949</MaxFixed>
+    <Scalar>1.82</Scalar>
+  </SkillGainModifier>
+  <SkillGainModifier version="0">
+    <Flags>Cartography</Flags>
+    <MinFixed>950</MinFixed>
+    <MaxFixed>989</MaxFixed>
+    <Scalar>2.22</Scalar>
+  </SkillGainModifier>
+  <SkillGainModifier version="0">
+    <Flags>Cartography</Flags>
+    <MinFixed>990</MinFixed>
+    <MaxFixed>999</MaxFixed>
+    <Scalar>8.33</Scalar>
+  </SkillGainModifier>
+  <SkillGainModifier version="0">
+    <Flags>_None</Flags>
+    <MinFixed>0</MinFixed>
+    <MaxFixed>1000</MaxFixed>
+    <Scalar>1</Scalar>
+  </SkillGainModifier>
+  <SkillGainModifier version="0">
+    <Flags>_None</Flags>
+    <MinFixed>0</MinFixed>
+    <MaxFixed>1000</MaxFixed>
+    <Scalar>1</Scalar>
+  </SkillGainModifier>
+  <SkillGainModifier version="0">
+    <Flags>_None</Flags>
+    <MinFixed>0</MinFixed>
+    <MaxFixed>1000</MaxFixed>
+    <Scalar>1</Scalar>
+  </SkillGainModifier>
+  <SkillGainModifier version="0">
+    <Flags>_None</Flags>
+    <MinFixed>0</MinFixed>
+    <MaxFixed>1000</MaxFixed>
+    <Scalar>1</Scalar>
+  </SkillGainModifier>
+  <SkillGainModifier version="0">
+    <Flags>_None</Flags>
+    <MinFixed>0</MinFixed>
+    <MaxFixed>1000</MaxFixed>
+    <Scalar>1</Scalar>
+  </SkillGainModifier>
+  <SkillGainModifier version="0">
+    <Flags>_None</Flags>
+    <MinFixed>0</MinFixed>
+    <MaxFixed>1000</MaxFixed>
+    <Scalar>1</Scalar>
+  </SkillGainModifier>
+</SkillGainConfig>

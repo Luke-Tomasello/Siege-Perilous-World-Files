@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<BulkOrderConfig version="3">
+  <LargeEnabled>False</LargeEnabled>
+  <AccountWideDelays>True</AccountWideDelays>
+  <EnabledFlags>11</EnabledFlags>
+  <GoldRewards>True</GoldRewards>
+  <FameRewards>True</FameRewards>
+  <RewardsGump>True</RewardsGump>
+  <OfferOnTurnIn>True</OfferOnTurnIn>
+  <GoldScalar>1</GoldScalar>
+  <SmallBankPerc>4</SmallBankPerc>
+  <LargeBankPerc>20</LargeBankPerc>
+  <TinyDelay>00:15:00</TinyDelay>
+  <SmallDelay>00:30:00</SmallDelay>
+  <LargeDelay>02:00:00</LargeDelay>
+  <TurnInDelay>00:00:10</TurnInDelay>
+</BulkOrderConfig>

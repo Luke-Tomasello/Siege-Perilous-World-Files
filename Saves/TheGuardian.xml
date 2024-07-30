@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<TheGuardian version="3">
+  <UnholyBoneCount>15</UnholyBoneCount>
+  <ArtifactsCount>6</ArtifactsCount>
+  <TentaclesCount>24</TentaclesCount>
+  <ArcSpacing>9.42477796076938</ArcSpacing>
+  <CircleSpacing>12</CircleSpacing>
+  <TeleportRadius>12</TeleportRadius>
+  <TeleportCooldown>5</TeleportCooldown>
+  <GoodiesRadius>8</GoodiesRadius>
+  <GoodiesTotalMin>80000</GoodiesTotalMin>
+  <GoodiesTotalMax>80000</GoodiesTotalMax>
+  <DemorphDelay>00:30:00</DemorphDelay>
+  <DrainCooldown>00:00:12</DrainCooldown>
+  <DrainRadius>12</DrainRadius>
+  <DrainDamageMin>16</DrainDamageMin>
+  <DrainDamageMax>30</DrainDamageMax>
+  <DrainHealScalar>100</DrainHealScalar>
+  <DamageDistMin>2</DamageDistMin>
+  <DamageDistMax>10</DamageDistMax>
+</TheGuardian>

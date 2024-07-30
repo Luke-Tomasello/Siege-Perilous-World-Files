@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<FactionConfig version="2">
+  <NewGumps>True</NewGumps>
+  <TownSqualorEnabled>False</TownSqualorEnabled>
+  <TownSoftSilverCap>1200000</TownSoftSilverCap>
+  <ElectionPendingPeriod>5.00:00:00</ElectionPendingPeriod>
+  <ElectionCampaignPeriod>1.00:00:00</ElectionCampaignPeriod>
+  <ElectionVotingPeriod>3.00:00:00</ElectionVotingPeriod>
+  <ElectionMaxCandidates>10</ElectionMaxCandidates>
+  <ElectionCandidateRank>5</ElectionCandidateRank>
+  <LeavePeriod>7.00:00:00</LeavePeriod>
+  <SkillLossFactor>0.3333333333333333</SkillLossFactor>
+  <SkillLossPeriod>00:20:00</SkillLossPeriod>
+  <StabilityFactor>300</StabilityFactor>
+  <StabilityActivation>200</StabilityActivation>
+  <ItemExpirationPeriod>21.00:00:00</ItemExpirationPeriod>
+  <BroadcastsPerPeriod>2</BroadcastsPerPeriod>
+  <BroadcastPeriod>01:00:00</BroadcastPeriod>
+  <SilverGivenExpirePeriod>03:00:00</SilverGivenExpirePeriod>
+  <TownTaxChangePeriod>12:00:00</TownTaxChangePeriod>
+  <TownIncomePeriod>1.00:00:00</TownIncomePeriod>
+  <TownCaptureSilver>10000</TownCaptureSilver>
+  <WarHorseSilverPrice>500</WarHorseSilverPrice>
+  <WarHorseGoldPrice>3000</WarHorseGoldPrice>
+  <WarHorseRankRequired>False</WarHorseRankRequired>
+  <SigilCorruptionGrace>00:15:00</SigilCorruptionGrace>
+  <SigilCorruptionPeriod>1.00:00:00</SigilCorruptionPeriod>
+  <SigilReturnPeriod>01:00:00</SigilReturnPeriod>
+  <SigilPurificationPeriod>3.00:00:00</SigilPurificationPeriod>
+</FactionConfig>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<HolidayDeedSettings version="0">
+  <HintMessage>Give this ticket to Kadull near west britain bank</HintMessage>
+  <GiveToType>christmaself</GiveToType>
+  <Gifts Count="12">
+    <Gift version="0">
+      <Type>sandals</Type>
+      <Name />
+      <Hue>1</Hue>
+    </Gift>
+    <Gift version="0">
+      <Type />
+      <Name />
+      <Hue />
+    </Gift>
+    <Gift version="0">
+      <Type />
+      <Name />
+      <Hue>0|3343|72|7|1274|53</Hue>
+    </Gift>
+    <Gift version="0">
+      <Type />
+      <Name />
+      <Hue />
+    </Gift>
+    <Gift version="0">
+      <Type />
+      <Name />
+      <Hue />
+    </Gift>
+    <Gift version="0">
+      <Type />
+      <Name />
+      <Hue />
+    </Gift>
+    <Gift version="0">
+      <Type />
+      <Name />
+      <Hue />
+    </Gift>
+    <Gift version="0">
+      <Type />
+      <Name />
+      <Hue />
+    </Gift>
+    <Gift version="0">
+      <Type />
+      <Name />
+      <Hue />
+    </Gift>
+    <Gift version="0">
+      <Type />
+      <Name />
+      <Hue />
+    </Gift>
+    <Gift version="0">
+      <Type />
+      <Name />
+      <Hue />
+    </Gift>
+    <Gift version="0">
+      <Type />
+      <Name />
+      <Hue />
+    </Gift>
+  </Gifts>
+</HolidayDeedSettings>

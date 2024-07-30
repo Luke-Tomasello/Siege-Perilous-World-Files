@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<StahlrimSystem version="0">
+  <ArmorBonus>0</ArmorBonus>
+  <ProtectionLevel>Regular</ProtectionLevel>
+  <DamageBonus>0</DamageBonus>
+  <DamageLevel>Force</DamageLevel>
+  <DurabilityScalar>50</DurabilityScalar>
+  <ArmorImbueChance>0.75</ArmorImbueChance>
+  <ArmorImbueCap>70</ArmorImbueCap>
+  <ArmorImbueScaling>True</ArmorImbueScaling>
+  <WeaponImbueChance>0.75</WeaponImbueChance>
+  <WeaponImbueCap>70</WeaponImbueCap>
+  <WeaponImbueScaling>True</WeaponImbueScaling>
+  <StatueImbueChance>0.75</StatueImbueChance>
+  <StatueImbueCap>140</StatueImbueCap>
+  <StatueImbueScaling>True</StatueImbueScaling>
+</StahlrimSystem>

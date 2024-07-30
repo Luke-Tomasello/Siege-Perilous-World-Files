@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<AlignmentConfig version="3">
+  <CreatureAllegiance>Regional</CreatureAllegiance>
+  <KillPointsEnabled>False</KillPointsEnabled>
+  <KillAwardCooldown>00:02:00</KillAwardCooldown>
+  <ChangeAlignmentDelay>7.00:00:00</ChangeAlignmentDelay>
+  <StrongholdNotoriety>False</StrongholdNotoriety>
+  <TraitorCooldown>00:05:00</TraitorCooldown>
+  <TitleDisplay>Paperdoll, GuildSuffix</TitleDisplay>
+</AlignmentConfig>
